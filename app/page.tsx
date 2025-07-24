@@ -18,7 +18,7 @@ export default function HomePage() {
           </div>
           <nav className="hidden md:flex items-center space-x-6">
             <a href="#home" className="text-sm font-medium hover:text-purple-600 transition-colors">
-              Home
+              ROSHINI
             </a>
             <a href="#features" className="text-sm font-medium hover:text-purple-600 transition-colors">
               Features
